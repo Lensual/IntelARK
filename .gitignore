@@ -1,0 +1,3 @@
+example/data/*.base64
+example/data/*.json
+example/data/*.sqlite
