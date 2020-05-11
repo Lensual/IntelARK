@@ -1,4 +1,4 @@
-package odata
+package PropertyRef
 
 import "encoding/xml"
 

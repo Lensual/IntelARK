@@ -1,9 +1,7 @@
-package odata
+package Association
 
 import (
 	"encoding/xml"
-
-	. "github.com/Lensual/IntelARK/odata/Association"
 )
 
 type Association struct {

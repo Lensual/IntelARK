@@ -1,4 +1,4 @@
-package odata
+package Entity
 
 import "encoding/xml"
 

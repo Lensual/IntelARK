@@ -1,4 +1,4 @@
-package association
+package Association
 
 import (
 	"encoding/xml"
